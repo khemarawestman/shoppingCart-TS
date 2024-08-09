@@ -3,6 +3,10 @@ import './MyWork.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
 import mywork_data from '../../assets/mywork_data'
 import arrow_icon from '../../assets/arrow_icon.svg'
+import mail_icon from '../../assets/mail_icon.svg'
+import location_icon from '../../assets/location_icon.svg'
+import call_icon from '../../assets/call_icon.svg'
+
 const MyWork = () => {
   return (
     <div className='mywork'>
