@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <div id ="home"className='hero'>
         <img src={profile_img} alt="" />
-        <h1> <span>I'm Erik Khemara Westman, </span>frontend developer base in Guthenburg,Sweden.</h1>
+        <h1> <span>I'm Erik Khemara Westman, </span>frontend developer based   in Guthenburg,Sweden.</h1>
         <p>
         I am a final-year student specializing in front-end development
         </p>

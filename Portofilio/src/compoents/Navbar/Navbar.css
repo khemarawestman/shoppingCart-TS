@@ -120,3 +120,35 @@
         width: 5rem;
     }
 }
+@media (max-width: 1280px) {
+    .navbar {
+        margin: 20px 20px; /* Adjust the margin to fit better */
+    }
+
+    .nav-menu {
+        gap: 10px; /* Adjust gap to fit items better */
+        font-size: 18px; /* Optionally reduce font size */
+    }
+
+    .nav-connect {
+        padding: 15px 30px; /* Adjust padding to fit better */
+        font-size: 20px; /* Reduce font size slightly */
+    }
+
+    .nav-menu li {
+        padding-left: 80px; /* Adjust padding for menu items */
+    }
+
+    .mainlogo {
+        width: 6rem; /* Adjust logo size */
+    }
+
+    /* Adjustments for mobile view on MacBook 13" */
+    .nav-mob-open {
+        right: 25px; /* Adjust position of the mobile menu open icon */
+    }
+
+    .nav-mob-close {
+        left: 280px; /* Adjust position of the mobile menu close icon */
+    }
+}
